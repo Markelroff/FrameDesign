@@ -1,0 +1,12 @@
+{
+  "type": "prisma",
+  "alt": "PRISMA 2020 flow of a simulated updated review",
+  "previous": {"studies": 18, "reports": 21},
+  "identification": {"databases": [["PubMed", 214], ["Embase", 260]]},
+  "removed": {"duplicates": 151},
+  "screen_excluded": 271,
+  "not_retrieved": 2,
+  "full_text_excluded": [["Wrong population", 31], ["Wrong design", 13]],
+  "included": {"studies": 6, "reports": 6},
+  "total": {"studies": 24, "reports": 27}
+}

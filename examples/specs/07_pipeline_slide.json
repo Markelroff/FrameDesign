@@ -1,0 +1,73 @@
+{
+  "type": "pipeline",
+  "direction": "LR",
+  "alt": "Single-cell RNA-seq analysis pipeline from raw reads to annotated cell states (slide version)",
+  "nodes": [
+    {
+      "id": "fastq",
+      "label": "Raw reads (FASTQ)",
+      "kind": "data",
+      "group": "Preprocessing"
+    },
+    {
+      "id": "align",
+      "label": "Alignment and counting",
+      "group": "Preprocessing"
+    },
+    {
+      "id": "qc",
+      "label": "Cell QC passes?",
+      "kind": "decision",
+      "group": "Preprocessing"
+    },
+    {
+      "id": "norm",
+      "label": "Normalization",
+      "group": "Analysis"
+    },
+    {
+      "id": "cluster",
+      "label": "Clustering",
+      "group": "Analysis"
+    },
+    {
+      "id": "annot",
+      "label": "Cell-state annotation",
+      "focal": true,
+      "group": "Analysis"
+    },
+    {
+      "id": "drop",
+      "label": "Low-quality cells removed",
+      "kind": "note"
+    }
+  ],
+  "edges": [
+    {
+      "from": "fastq",
+      "to": "align"
+    },
+    {
+      "from": "align",
+      "to": "qc"
+    },
+    {
+      "from": "qc",
+      "to": "norm",
+      "label": "yes"
+    },
+    {
+      "from": "qc",
+      "to": "drop",
+      "label": "no"
+    },
+    {
+      "from": "norm",
+      "to": "cluster"
+    },
+    {
+      "from": "cluster",
+      "to": "annot"
+    }
+  ]
+}
