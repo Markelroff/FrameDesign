@@ -1,0 +1,268 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="468pt" height="406.42pt" viewBox="0 0 468 406.42" font-family="'Times New Roman', Times, 'Liberation Serif', serif" data-framedesign="1.1.0" role="img" xmlns:c2pa="http://c2pa.org/manifest"><title>Figure 1. Cohort selection (A), two-year revision by implant type (B), and cumulative revision over time (C). Simulated data.</title><defs><marker id="fd-arrow" viewBox="0 0 8 8" refX="7.4" refY="4" markerWidth="6" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0.6 L7.6,4 L0,7.4 Z" fill="#262626"/></marker><marker id="fd-arrow-accent" viewBox="0 0 8 8" refX="7.4" refY="4" markerWidth="6.5" markerHeight="6.5" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0.6 L7.6,4 L0,7.4 Z" fill="#1F5FAD"/></marker><marker id="fd-arrow-muted" viewBox="0 0 8 8" refX="7.4" refY="4" markerWidth="6" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0.6 L7.6,4 L0,7.4 Z" fill="#A6A6A6"/></marker></defs><rect width="100%" height="100%" fill="#FFFFFF"/><svg x="24" y="12" width="425" height="198.94" viewBox="0 0 425 198.94" preserveAspectRatio="xMinYMin meet" overflow="hidden" data-fd="panel" data-fd-id="A"><defs><marker id="p0-fd-arrow" viewBox="0 0 8 8" refX="7.4" refY="4" markerWidth="6" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0.6 L7.6,4 L0,7.4 Z" fill="#262626"/></marker><marker id="p0-fd-arrow-accent" viewBox="0 0 8 8" refX="7.4" refY="4" markerWidth="6.5" markerHeight="6.5" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0.6 L7.6,4 L0,7.4 Z" fill="#1F5FAD"/></marker><marker id="p0-fd-arrow-muted" viewBox="0 0 8 8" refX="7.4" refY="4" markerWidth="6" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0.6 L7.6,4 L0,7.4 Z" fill="#A6A6A6"/></marker></defs><rect width="100%" height="100%" fill="#FFFFFF"/><rect x="59" y="12" width="160" height="34.2" rx="2" fill="#FFFFFF" stroke="#262626" stroke-width="0.75" data-fd="node" data-fd-id="p0-start" data-fd-box="59,12,160,34.2"/><text x="139" y="26" font-size="10" fill="#262626" text-anchor="middle" data-fd-w="144.16" data-fd-maxw="148">Shoulder arthroplasty, 2015 to 2022</text><text x="139" y="38.2" font-size="10" fill="#262626" text-anchor="middle" data-fd-w="49.8" data-fd-maxw="148">(n = 48,210)</text><rect x="243" y="60.2" width="170" height="42.74" rx="2" fill="#FFFFFF" stroke="#262626" stroke-width="0.75" data-fd="node" data-fd-id="p0-excl1" data-fd-box="243,60.2,170,42.74"/><text x="249" y="74.2" font-size="10" fill="#262626" text-anchor="start" data-fd-w="90.07" data-fd-maxw="158">Excluded (n = 11,154)</text><text x="251" y="85.2" font-size="8.5" fill="#595959" text-anchor="start" data-fd-w="128.72" data-fd-maxw="156">· Fracture or age under 50 (n = 6,120)</text><text x="251" y="95.57" font-size="8.5" fill="#595959" text-anchor="start" data-fd-w="152.1" data-fd-maxw="156">· Less than 2 years of enrollment (n = 5,034)</text><path d="M139,81.57 L242.4,81.57" fill="none" stroke="#262626" stroke-width="0.75" stroke-linejoin="round" marker-end="url(#p0-fd-arrow)" data-fd="edge" data-fd-id="p0-excl1" data-fd-points="139,81.57 242.4,81.57"/><path d="M139,46.2 L139,116.34" fill="none" stroke="#262626" stroke-width="0.75" stroke-linejoin="round" marker-end="url(#p0-fd-arrow)" data-fd="edge" data-fd-id="p0-step1" data-fd-points="139,46.2 139,116.34"/><rect x="59" y="116.94" width="160" height="22" rx="2" fill="#FFFFFF" stroke="#262626" stroke-width="0.75" data-fd="node" data-fd-id="p0-step1" data-fd-box="59,116.94,160,22"/><text x="139" y="130.94" font-size="10" fill="#262626" text-anchor="middle" data-fd-w="112.02" data-fd-maxw="148">Eligible cohort (n = 37,056)</text><path d="M139,138.94 L139,151.94" fill="none" stroke="#262626" stroke-width="0.75" stroke-linejoin="round" data-fd="edge" data-fd-id="p0-bus-stem" data-fd-points="139,138.94 139,151.94"/><path d="M72,151.94 L206,151.94" fill="none" stroke="#262626" stroke-width="0.75" stroke-linejoin="round" data-fd="edge" data-fd-id="p0-bus" data-fd-points="72,151.94 206,151.94"/><path d="M72,151.94 L72,164.34" fill="none" stroke="#262626" stroke-width="0.75" stroke-linejoin="round" marker-end="url(#p0-fd-arrow)" data-fd="edge" data-fd-id="p0-group0" data-fd-points="72,151.94 72,164.34"/><rect x="12" y="164.94" width="120" height="22" rx="2" fill="#FFFFFF" stroke="#262626" stroke-width="0.75" data-fd="node" data-fd-id="p0-group0" data-fd-box="12,164.94,120,22"/><text x="72" y="178.94" font-size="10" fill="#262626" text-anchor="middle" data-fd-w="84.51" data-fd-maxw="108">Reverse (n = 22,105)</text><path d="M206,151.94 L206,164.34" fill="none" stroke="#262626" stroke-width="0.75" stroke-linejoin="round" marker-end="url(#p0-fd-arrow)" data-fd="edge" data-fd-id="p0-group1" data-fd-points="206,151.94 206,164.34"/><rect x="146" y="164.94" width="120" height="22" rx="2" fill="#FFFFFF" stroke="#262626" stroke-width="0.75" data-fd="node" data-fd-id="p0-group1" data-fd-box="146,164.94,120,22"/><text x="206" y="178.94" font-size="10" fill="#262626" text-anchor="middle" data-fd-w="91.74" data-fd-maxw="108">Anatomic (n = 14,951)</text></svg><text x="12" y="21.6" font-size="12" font-weight="bold" fill="#262626" text-anchor="start">A</text><svg x="24" y="224.94" width="190.91" height="156.83" viewBox="0 0 190.91 156.83" preserveAspectRatio="xMinYMin meet" overflow="hidden" data-fd="panel" data-fd-id="B">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="p1-figure_1">
+  <g id="p1-patch_1">
+   <path d="M 0 156.831432 
+L 190.906094 156.831432 
+L 190.906094 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="p1-axes_1">
+   <g id="p1-patch_2">
+    <path d="M 15.7 137.039635 
+L 173.025 137.039635 
+L 173.025 32.832969 
+L 15.7 32.832969 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="p1-patch_3">
+    <path d="M 22.851136 137.039635 
+L 70.525379 137.039635 
+L 70.525379 37.795191 
+L 22.851136 37.795191 
+z
+" clip-path="url(#p1-pa158a449cc)" style="fill: #a6a6a6"/>
+   </g>
+   <g id="p1-patch_4">
+    <path d="M 118.199621 137.039635 
+L 165.873864 137.039635 
+L 165.873864 72.451981 
+L 118.199621 72.451981 
+z
+" clip-path="url(#p1-pa158a449cc)" style="fill: #a6a6a6"/>
+   </g>
+   <g id="p1-matplotlib.axis_1">
+    <g id="p1-xtick_1">
+     <g id="p1-line2d_1"/>
+     <g id="p1-text_1">
+      <text style="font-size: 10px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: middle; fill: #262626" x="46.688258" y="147.473229" transform="rotate(-0 46.688258 147.473229)">Anatomic</text>
+     </g>
+    </g>
+    <g id="p1-xtick_2">
+     <g id="p1-line2d_2"/>
+     <g id="p1-text_2">
+      <text style="font-size: 10px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: middle; fill: #262626" x="142.036742" y="147.473229" transform="rotate(-0 142.036742 147.473229)">Reverse</text>
+     </g>
+    </g>
+   </g>
+   <g id="p1-matplotlib.axis_2">
+    <g id="p1-ytick_1">
+     <g id="p1-line2d_3"/>
+     <g id="p1-text_3">
+      <text style="font-size: 10px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: end; fill: #262626" x="12.2" y="109.000259" transform="rotate(-0 12.2 109.000259)">2</text>
+     </g>
+    </g>
+    <g id="p1-ytick_2">
+     <g id="p1-line2d_4"/>
+     <g id="p1-text_4">
+      <text style="font-size: 10px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: end; fill: #262626" x="12.2" y="77.494087" transform="rotate(-0 12.2 77.494087)">4</text>
+     </g>
+    </g>
+    <g id="p1-ytick_3">
+     <g id="p1-line2d_5"/>
+     <g id="p1-text_5">
+      <text style="font-size: 10px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: end; fill: #262626" x="12.2" y="45.987914" transform="rotate(-0 12.2 45.987914)">6</text>
+     </g>
+    </g>
+    <g id="p1-text_6">
+     <text style="font-size: 10px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: start; fill: #262626" x="15.7" y="28.590632" transform="rotate(-0 15.7 28.590632)">Revised within 2 years, %</text>
+    </g>
+   </g>
+   <g id="p1-line2d_6">
+    <path d="M 15.7 105.533463 
+L 173.025 105.533463 
+" clip-path="url(#p1-pa158a449cc)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="p1-line2d_7">
+    <path d="M 15.7 74.02729 
+L 173.025 74.02729 
+" clip-path="url(#p1-pa158a449cc)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="p1-line2d_8">
+    <path d="M 15.7 42.521117 
+L 173.025 42.521117 
+" clip-path="url(#p1-pa158a449cc)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="p1-patch_5">
+    <path d="M 15.7 137.039635 
+L 173.025 137.039635 
+" style="fill: none; stroke: #262626; stroke-width: 0.4; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="p1-text_7">
+    <text style="font-size: 11px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: start" x="15.7" y="14.832969" transform="rotate(-0 15.7 14.832969)">Anatomic implants were revised more</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1-pa158a449cc">
+   <rect x="15.7" y="32.832969" width="157.325" height="104.206667"/>
+  </clipPath>
+ </defs>
+</svg><text x="12" y="234.54" font-size="12" font-weight="bold" fill="#262626" text-anchor="start">B</text><svg x="253" y="224.94" width="203" height="169.48" viewBox="0 0 207.99 173.64" preserveAspectRatio="xMinYMin meet" overflow="hidden" data-fd="panel" data-fd-id="C">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="p2-figure_1">
+  <g id="p2-patch_1">
+   <path d="M 0 173.641979 
+L 207.990938 173.641979 
+L 207.990938 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="p2-axes_1">
+   <g id="p2-patch_2">
+    <path d="M 19.2 137.151354 
+L 176.525 137.151354 
+L 176.525 32.944688 
+L 19.2 32.944688 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="p2-matplotlib.axis_1">
+    <g id="p2-xtick_1">
+     <g id="p2-line2d_1">
+      <defs>
+       <path id="p2-mb2638d4f7f" d="M 0 0 
+L 0 3.5 
+" style="stroke: #262626; stroke-width: 0.3"/>
+      </defs>
+      <g>
+       <use xlink:href="#p2-mb2638d4f7f" x="34.425" y="137.151354" style="fill: #262626; stroke: #262626; stroke-width: 0.3"/>
+      </g>
+     </g>
+     <g id="p2-text_1">
+      <text style="font-size: 10px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: middle; fill: #262626" x="34.425" y="151.084948" transform="rotate(-0 34.425 151.084948)">0</text>
+     </g>
+    </g>
+    <g id="p2-xtick_2">
+     <g id="p2-line2d_2">
+      <g>
+       <use xlink:href="#p2-mb2638d4f7f" x="87.289583" y="137.151354" style="fill: #262626; stroke: #262626; stroke-width: 0.3"/>
+      </g>
+     </g>
+     <g id="p2-text_2">
+      <text style="font-size: 10px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: middle; fill: #262626" x="87.289583" y="151.084948" transform="rotate(-0 87.289583 151.084948)">10</text>
+     </g>
+    </g>
+    <g id="p2-xtick_3">
+     <g id="p2-line2d_3">
+      <g>
+       <use xlink:href="#p2-mb2638d4f7f" x="140.154167" y="137.151354" style="fill: #262626; stroke: #262626; stroke-width: 0.3"/>
+      </g>
+     </g>
+     <g id="p2-text_3">
+      <text style="font-size: 10px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: middle; fill: #262626" x="140.154167" y="151.084948" transform="rotate(-0 140.154167 151.084948)">20</text>
+     </g>
+    </g>
+    <g id="p2-text_4">
+     <text style="font-size: 10px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: middle; fill: #262626" x="97.8625" y="164.283776" transform="rotate(-0 97.8625 164.283776)">Months after surgery</text>
+    </g>
+   </g>
+   <g id="p2-matplotlib.axis_2">
+    <g id="p2-ytick_1">
+     <g id="p2-line2d_4">
+      <defs>
+       <path id="p2-m9216d5e100" d="M 0 0 
+L -3.5 0 
+" style="stroke: #262626; stroke-width: 0.3"/>
+      </defs>
+      <g>
+       <use xlink:href="#p2-m9216d5e100" x="19.2" y="132.414688" style="fill: #262626; stroke: #262626; stroke-width: 0.3"/>
+      </g>
+     </g>
+     <g id="p2-text_5">
+      <text style="font-size: 10px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: end; fill: #262626" x="12.2" y="135.881484" transform="rotate(-0 12.2 135.881484)">0</text>
+     </g>
+    </g>
+    <g id="p2-ytick_2">
+     <g id="p2-line2d_5">
+      <g>
+       <use xlink:href="#p2-m9216d5e100" x="19.2" y="102.340613" style="fill: #262626; stroke: #262626; stroke-width: 0.3"/>
+      </g>
+     </g>
+     <g id="p2-text_6">
+      <text style="font-size: 10px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: end; fill: #262626" x="12.2" y="105.80741" transform="rotate(-0 12.2 105.80741)">2</text>
+     </g>
+    </g>
+    <g id="p2-ytick_3">
+     <g id="p2-line2d_6">
+      <g>
+       <use xlink:href="#p2-m9216d5e100" x="19.2" y="72.266539" style="fill: #262626; stroke: #262626; stroke-width: 0.3"/>
+      </g>
+     </g>
+     <g id="p2-text_7">
+      <text style="font-size: 10px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: end; fill: #262626" x="12.2" y="75.733336" transform="rotate(-0 12.2 75.733336)">4</text>
+     </g>
+    </g>
+    <g id="p2-ytick_4">
+     <g id="p2-line2d_7">
+      <g>
+       <use xlink:href="#p2-m9216d5e100" x="19.2" y="42.192465" style="fill: #262626; stroke: #262626; stroke-width: 0.3"/>
+      </g>
+     </g>
+     <g id="p2-text_8">
+      <text style="font-size: 10px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: end; fill: #262626" x="12.2" y="45.659262" transform="rotate(-0 12.2 45.659262)">6</text>
+     </g>
+    </g>
+    <g id="p2-text_9">
+     <text style="font-size: 10px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: start; fill: #262626" x="19.2" y="28.702351" transform="rotate(-0 19.2 28.702351)">Cumulative revision, %</text>
+    </g>
+   </g>
+   <g id="p2-line2d_8">
+    <path d="M 34.425 132.414688 
+L 50.284375 103.555519 
+L 66.14375 82.877021 
+L 82.003125 68.06023 
+L 97.8625 57.443535 
+L 113.721875 49.836341 
+L 129.58125 44.385548 
+L 145.440625 40.479885 
+L 161.3 37.681354 
+" clip-path="url(#p2-pe229cd6c5c)" style="fill: none; stroke: #1f5fad; stroke-linecap: square"/>
+   </g>
+   <g id="p2-line2d_9">
+    <path d="M 34.425 132.414688 
+L 50.284375 113.633324 
+L 66.14375 100.175889 
+L 82.003125 90.533215 
+L 97.8625 83.623938 
+L 113.721875 78.673224 
+L 129.58125 75.125883 
+L 145.440625 72.584101 
+L 161.3 70.762836 
+" clip-path="url(#p2-pe229cd6c5c)" style="fill: none; stroke: #a6a6a6; stroke-linecap: square"/>
+   </g>
+   <g id="p2-patch_3">
+    <path d="M 19.2 137.151354 
+L 19.2 32.944688 
+" style="fill: none; stroke: #262626; stroke-width: 0.4; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="p2-patch_4">
+    <path d="M 19.2 137.151354 
+L 176.525 137.151354 
+" style="fill: none; stroke: #262626; stroke-width: 0.4; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="p2-text_10">
+    <text style="font-size: 9px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: start; fill: #1f5fad" x="165.3" y="39.83028" transform="rotate(-0 165.3 39.83028)">Anatomic</text>
+   </g>
+   <g id="p2-text_11">
+    <text style="font-size: 9px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: start; fill: #a6a6a6" x="165.3" y="72.911761" transform="rotate(-0 165.3 72.911761)">Reverse</text>
+   </g>
+   <g id="p2-text_12">
+    <text style="font-size: 11px; font-family: Times New Roman, Times, Liberation Serif, serif; text-anchor: start" x="19.2" y="14.944688" transform="rotate(-0 19.2 14.944688)">The gap opens in the first year</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2-pe229cd6c5c">
+   <rect x="19.2" y="32.944688" width="157.325" height="104.206667"/>
+  </clipPath>
+ </defs>
+</svg><text x="241" y="234.54" font-size="12" font-weight="bold" fill="#262626" text-anchor="start">C</text><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowYjBmMmFhNS05NWZmLTQ4YzgtOTk4Mi03ZDEzYWQ2NmI2ODEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPpQQMB+8K7Oobx8pN+X15wAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplZjIxMmQ5ZS0yMTNiLTQ5MjYtODg2Yi0yYTllODNhOWYzMWVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo1l1eFA/sruBndnvAz3rbdAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggsWfle9odC4alQPpVbWUs86v9qS0MqhGxnpmpwwj7DUykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLAm8H0BW0c+PcUl3SdlymgAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIPygkZLRS/3LQqO46wyAottn4LK4QiYdxB2RWTzl7zDJZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GT8xZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjBiMGYyYWE1LTk1ZmYtNDhjOC05OTgyLTdkMTNhZDY2YjY4MS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjJhMmVlYjJkLTliYjUtNDU1Yy04ZmYxLTE0MzNjOGE4OGNiNXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCxZ+V72h0LhqVA+lVtZSzzq/2pLQyqEbGemanDCPsNTKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg1Uj0EMwp5YVbi33obCe7+DGxNNblaMafxZT5fJF0J/qiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggDNFaghvLb6V2BrEpskZs3HVyIQPObgstgpOm4CqaEU90Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQG1ugE1pu/DWHGB+MFOwBvdkHsKt4N/huiE85SJ5z5pJ/b/csuYwO4uU8WvIieMV/yrlz4jgCdOHj04MQIwhDpE=</c2pa:manifest></metadata></svg>

@@ -1,0 +1,26 @@
+{
+  "type": "dag",
+  "alt": "Assumed causal structure for smoking and revision after shoulder arthroplasty",
+  "nodes": [
+    {"id": "Smoking", "role": "exposure"},
+    {"id": "Revision", "label": "Revision surgery", "role": "outcome"},
+    {"id": "Age", "role": "confounder", "adjusted": true},
+    {"id": "Diabetes", "role": "confounder", "adjusted": true},
+    {"id": "SES", "label": "Socioeconomic status", "role": "confounder", "adjusted": true},
+    {"id": "Infection", "label": "Wound infection", "role": "mediator"},
+    {"id": "Frailty", "label": "Frailty", "role": "unmeasured"}
+  ],
+  "edges": [
+    {"from": "Smoking", "to": "Revision"},
+    {"from": "Smoking", "to": "Infection"},
+    {"from": "Infection", "to": "Revision"},
+    {"from": "Age", "to": "Smoking"},
+    {"from": "Age", "to": "Revision"},
+    {"from": "Diabetes", "to": "Infection"},
+    {"from": "Diabetes", "to": "Revision"},
+    {"from": "SES", "to": "Smoking"},
+    {"from": "SES", "to": "Diabetes"},
+    {"from": "Frailty", "to": "Revision"},
+    {"from": "Frailty", "to": "Diabetes"}
+  ]
+}

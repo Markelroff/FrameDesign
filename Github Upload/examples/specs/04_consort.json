@@ -1,0 +1,15 @@
+{
+  "type": "consort",
+  "alt": "CONSORT flow of a simulated two-arm trial",
+  "assessed": 412,
+  "excluded": {"total": 112, "reasons": [["Did not meet inclusion criteria", 71], ["Declined to participate", 33], ["Other reasons", 8]]},
+  "randomized": 300,
+  "arms": [
+    {"name": "Drug A", "allocated": 150, "received": 146, "not_received": [["Withdrew before dosing", 4]],
+     "lost": [["Moved away", 3], ["No reason given", 2]], "discontinued": [["Adverse event", 6]],
+     "analysed": 150, "imputed": true},
+    {"name": "Placebo", "allocated": 150, "received": 149, "not_received": [["Withdrew before dosing", 1]],
+     "lost": [["No reason given", 4]], "discontinued": [["Lack of efficacy", 3]],
+     "analysed": 148, "excluded_analysis": [["No baseline measurement", 2]]}
+  ]
+}

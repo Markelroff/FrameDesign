@@ -1,0 +1,164 @@
+spec	kind	id	values
+01_pipeline	viewBox		0 0 232.59 384
+01_pipeline	group	Preprocessing	56.4,13,131.22,173
+01_pipeline	label	group:Preprocessing	61.4,173.5,49.1,8.5
+01_pipeline	group	Analysis	12,201,117.05,171
+01_pipeline	label	group:Analysis	17,359.5,28.81,8.5
+01_pipeline	edge	fastq->align	122.01,43 122.01,82.4
+01_pipeline	edge	align->qc	122.01,105 122.01,144.4
+01_pipeline	edge	qc->norm	122.01,169 122.01,189 70.53,189 70.53,208.4
+01_pipeline	edge	qc->drop	122.01,169 122.01,189 173.5,189 173.5,213.15
+01_pipeline	edge	norm->cluster	70.53,231 70.53,270.4
+01_pipeline	edge	cluster->annot	70.53,293 70.53,332.4
+01_pipeline	node	fastq	66.63,21,110.76,22
+01_pipeline	node	align	64.4,83,115.22,22
+01_pipeline	node	qc	75.24,145,93.55,24
+01_pipeline	node	norm	32.64,209,75.77,22
+01_pipeline	node	cluster	40.69,271,59.67,22
+01_pipeline	node	annot	20,333,101.05,22
+01_pipeline	node	drop	126.41,213.75,94.19,12.5
+01_pipeline	label	qc->norm	55.67,194.54,10.85,8.93
+01_pipeline	label	qc->drop	177.5,196.91,8.5,8.93
+02_flow_loop	viewBox		0 0 212.53 320.4
+02_flow_loop	edge	start->data	79.74,34 79.74,73.4
+02_flow_loop	edge	data->fit	79.74,108.2 79.74,147.6
+02_flow_loop	edge	fit->ok	79.74,170.2 79.74,209.6
+02_flow_loop	edge	ok->report	79.74,234.2 79.74,273.6
+02_flow_loop	edge	ok->fit	140.81,222.2 161.48,222.2 161.48,159.2 129.06,159.2
+02_flow_loop	node	start	21.04,12,117.41,22
+02_flow_loop	node	data	12,74,135.48,34.2
+02_flow_loop	node	fit	31.02,148.2,97.44,22
+02_flow_loop	node	ok	18.67,210.2,122.14,24
+02_flow_loop	node	report	27.69,274.2,104.11,34.2
+02_flow_loop	label	ok->report	83.74,249.74,10.85,8.93
+02_flow_loop	label	ok->fit	165.48,186.24,33.05,8.93
+03_dag	viewBox		0 0 500.36 146.37
+03_dag	edge	Smoking->Revision	216.33,46.27 223.48,46.62 233,47.04 244.34,47.54 256.93,48.12 270.22,48.77 283.65,49.5 296.65,50.31 308.68,51.2 320.58,52.27 333.28,53.56 346.26,54.99 359.02,56.47 371.06,57.91 381.88,59.23 390.96,60.33 397.82,61.13
+03_dag	edge	Smoking->Infection	216.33,49.36 269.93,59.13
+03_dag	edge	Infection->Revision	347.42,66.2 397.82,66.2
+03_dag	edge	Age->Smoking	82.3,26.07 168.54,40.89
+03_dag	edge	Age->Revision	82.3,23.98 90.76,24.39 101.95,24.89 115.27,25.48 130.1,26.16 145.85,26.95 161.89,27.85 177.62,28.86 192.44,30 206.86,31.29 221.7,32.75 236.77,34.34 251.87,36.03 266.8,37.79 281.38,39.59 295.4,41.4 308.68,43.2 321.72,45.11 334.96,47.22 348.01,49.43 360.51,51.63 372.11,53.74 382.44,55.64 391.13,57.23 397.82,58.42
+03_dag	edge	Diabetes->Infection	219.43,80.63 269.93,72.47
+03_dag	edge	Diabetes->Revision	219.43,84.12 226.32,83.94 235.47,83.76 246.36,83.55 258.48,83.28 271.29,82.94 284.28,82.49 296.91,81.92 308.68,81.2 320.43,80.23 333.06,78.98 346.03,77.55 358.83,76.05 370.92,74.58 381.8,73.22 390.94,72.09 397.82,71.27
+03_dag	edge	SES->Smoking	117.44,57.89 168.54,49.11
+03_dag	edge	SES->Diabetes	117.44,74.45 165.34,81.19
+03_dag	edge	Frailty->Revision	82.81,106.57 91.22,106.46 102.35,106.39 115.6,106.33 130.35,106.21 146.02,105.97 161.99,105.56 177.67,104.92 192.44,104 206.83,102.74 221.67,101.17 236.73,99.36 251.84,97.39 266.78,95.32 281.37,93.22 295.4,91.15 308.68,89.2 321.72,87.21 334.96,85.07 348.01,82.85 360.51,80.67 372.11,78.59 382.44,76.72 391.13,75.16 397.82,73.98
+03_dag	edge	Frailty->Diabetes	82.81,103.85 165.34,89.66
+03_dag	node	Smoking	171.54,38,41.79,14
+03_dag	node	Revision	398.42,55.2,89.94,22
+03_dag	node	Age	47.14,12,34.66,22
+03_dag	node	Diabetes	165.94,74,52.99,22
+03_dag	node	SES	12,56,104.94,22
+03_dag	node	Infection	272.93,59.2,71.49,14
+03_dag	node	Frailty	49.13,100,30.67,14
+04_consort	viewBox		0 0 468 447.98
+04_consort	node	assessed	142,12,140,34.2
+04_consort	node	excluded	306,60.2,150,63.48
+04_consort	edge	assessed->randomized	212,46.2 212,137.68
+04_consort	edge	assessed->excluded	212,91.94 305.4,91.94
+04_consort	node	randomized	142,137.68,140,22
+04_consort	edge	randomized->bus	212,159.68 212,172.68
+04_consort	edge	bus	134,172.68 290,172.68
+04_consort	edge	Allocation-0-in	134,172.68 134,185.08
+04_consort	node	Allocation-0	64,185.68,140,84.22
+04_consort	edge	Allocation-1-in	290,172.68 290,185.08
+04_consort	node	Allocation-1	220,185.68,140,84.22
+04_consort	edge	Follow-up-0-in	134,269.9 134,291.3
+04_consort	node	Follow-up-0	64,291.9,140,77.51
+04_consort	edge	Follow-up-1-in	290,269.9 290,291.3
+04_consort	node	Follow-up-1	220,291.9,140,77.51
+04_consort	edge	Analysis-0-in	134,369.41 134,390.81
+04_consort	node	Analysis-0	64,391.41,140,44.57
+04_consort	edge	Analysis-1-in	290,369.41 290,390.81
+04_consort	node	Analysis-1	220,391.41,140,44.57
+05_cohort	viewBox		0 0 425 317.91
+05_cohort	node	start	59,12,160,34.2
+05_cohort	node	excl1	243,60.2,170,42.74
+05_cohort	edge	excl1	139,81.57 242.4,81.57
+05_cohort	edge	step1	139,46.2 139,116.34
+05_cohort	node	step1	59,116.94,160,34.2
+05_cohort	node	excl2	243,165.14,170,32.37
+05_cohort	edge	excl2	139,181.32 242.4,181.32
+05_cohort	edge	step2	139,151.14 139,210.91
+05_cohort	node	step2	59,211.51,160,34.2
+05_cohort	edge	bus-stem	139,245.71 139,258.71
+05_cohort	edge	bus	72,258.71 206,258.71
+05_cohort	edge	group0	72,258.71 72,271.11
+05_cohort	node	group0	12,271.71,120,34.2
+05_cohort	edge	group1	206,258.71 206,271.11
+05_cohort	node	group1	146,271.71,120,34.2
+06_timeline	viewBox		0 0 468 162.15
+06_timeline	bar	Ethics approval	105.33,34.05,28.72,8
+06_timeline	bar	Recruitment	134.05,52.05,143.61,8
+06_timeline	bar	Intervention	143.63,70.05,191.48,8
+06_timeline	bar	Analysis and writing	354.26,106.05,95.74,8
+07_pipeline_slide	viewBox		0 0 776.93 100.6
+07_pipeline_slide	group	Preprocessing	12,24.52,378.03,59.2
+07_pipeline_slide	label	group:Preprocessing	17,28.02,49.1,8.5
+07_pipeline_slide	group	Analysis	423.24,13,341.7,47
+07_pipeline_slide	label	group:Analysis	428.24,16.5,28.81,8.5
+07_pipeline_slide	edge	fastq->align	130.76,58.62 170.16,58.62
+07_pipeline_slide	edge	align->qc	248.48,58.62 287.88,58.62
+07_pipeline_slide	edge	qc->norm	382.03,58.62 402.03,58.62 402.03,41 430.64,41
+07_pipeline_slide	edge	qc->drop	382.03,58.62 402.03,58.62 402.03,76.25 421.43,76.25
+07_pipeline_slide	edge	norm->cluster	507.01,41 555.62,41
+07_pipeline_slide	edge	cluster->annot	615.88,41 655.28,41
+07_pipeline_slide	node	fastq	20,47.62,110.76,22
+07_pipeline_slide	node	align	170.76,41.52,77.72,34.2
+07_pipeline_slide	node	qc	288.48,46.62,93.55,24
+07_pipeline_slide	node	norm	431.24,30,75.77,22
+07_pipeline_slide	node	cluster	556.22,30,59.67,22
+07_pipeline_slide	node	annot	655.88,30,101.05,22
+07_pipeline_slide	node	drop	422.03,70,94.19,12.5
+07_pipeline_slide	label	qc->norm	411.21,29.07,10.85,8.93
+07_pipeline_slide	label	qc->drop	407.78,79.25,8.5,8.93
+09_prisma	viewBox		0 0 464 481.86
+09_prisma	node	main-0	30,30.37,96,96.42
+09_prisma	node	main_side-0	140,30.37,92,127.53
+09_prisma	node	other-0	250,30.37,96,86.05
+09_prisma	node	main-1	30,177.9,96,34.2
+09_prisma	node	main_side-1	140,177.9,92,34.2
+09_prisma	node	main-2	30,232.1,96,34.2
+09_prisma	node	main_side-2	140,232.1,92,34.2
+09_prisma	node	other-2	250,232.1,96,34.2
+09_prisma	node	other_side-2	360,232.1,92,34.2
+09_prisma	node	main-3	30,286.3,96,34.2
+09_prisma	node	main_side-3	140,286.3,92,104.96
+09_prisma	node	other-3	250,286.3,96,34.2
+09_prisma	node	other_side-3	360,286.3,92,63.48
+09_prisma	node	included	30,411.26,96,58.6
+09_prisma	edge	main0->side	126,78.58 139.4,78.58
+09_prisma	edge	main1->side	126,195 139.4,195
+09_prisma	edge	main2->side	126,249.2 139.4,249.2
+09_prisma	edge	main3->side	126,303.4 139.4,303.4
+09_prisma	edge	main0->main1	78,126.79 78,177.3
+09_prisma	edge	main1->main2	78,212.1 78,231.5
+09_prisma	edge	main2->main3	78,266.3 78,285.7
+09_prisma	edge	main3->included	78,320.5 78,410.66
+09_prisma	edge	other0->other2	298,116.42 298,231.5
+09_prisma	edge	other2->side	346,249.2 359.4,249.2
+09_prisma	edge	other3->side	346,303.4 359.4,303.4
+09_prisma	edge	other2->other3	298,266.3 298,285.7
+09_prisma	edge	other3->included	298,320.5 298,440.56 126.6,440.56
+10_prisma_update	viewBox		0 0 416 477.5
+10_prisma_update	node	main-0	160,30.37,112,42.74
+10_prisma_update	node	main_side-0	286,30.37,118,106.79
+10_prisma_update	node	prev-0	30,30.37,112,95.2
+10_prisma_update	node	main-1	160,157.16,112,34.2
+10_prisma_update	node	main_side-1	286,157.16,118,34.2
+10_prisma_update	node	main-2	160,211.36,112,34.2
+10_prisma_update	node	main_side-2	286,211.36,118,34.2
+10_prisma_update	node	main-3	160,265.56,112,34.2
+10_prisma_update	node	main_side-3	286,265.56,118,42.74
+10_prisma_update	node	included	160,328.3,112,58.6
+10_prisma_update	node	total	160,406.9,112,58.6
+10_prisma_update	edge	main0->side	272,51.74 285.4,51.74
+10_prisma_update	edge	main1->side	272,174.26 285.4,174.26
+10_prisma_update	edge	main2->side	272,228.46 285.4,228.46
+10_prisma_update	edge	main3->side	272,282.66 285.4,282.66
+10_prisma_update	edge	main0->main1	216,73.11 216,156.56
+10_prisma_update	edge	main1->main2	216,191.36 216,210.76
+10_prisma_update	edge	main2->main3	216,245.56 216,264.96
+10_prisma_update	edge	main3->included	216,299.76 216,327.7
+10_prisma_update	edge	prev->total	86,125.57 86,436.2 159.4,436.2
+10_prisma_update	edge	included->total	216,386.9 216,406.3
